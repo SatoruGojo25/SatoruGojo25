@@ -26,16 +26,6 @@ Trabalho com **HTML, CSS e JavaScript**, buscando sempre clareza, performance e 
 
 ---
 
-
-## 📊 GitHub Stats
-
-<div>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=SatoruGojo25&show_icons=true&theme=tokyonight">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SatoruGojo25&layout=compact&theme=tokyonight">
-</div>
----
-
-
 ## 📂 Projetos em destaque
 
 - **Interfaces responsivas em HTML/CSS**
